@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ProgDaLars
 - 👀 I’m interested in Software Development, Data Engineering and Analysis and Mobile Apps Development
 - 🌱 I’m currently learning Typescript
-- 💞️ I’m looking to collaborate on new project ideas in Data, Web or Mobile Apps
+- 💞️ I’m looking to collaborate on new project ideas in Data Engineering, Web or Mobile Apps
 - 📫 How to reach me: https://linkedin.com/in/salamifamous
 
 <!---
